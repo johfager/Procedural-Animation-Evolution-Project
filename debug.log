@@ -1,0 +1,5 @@
+[1104/163855.589:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1104/163907.392:ERROR:broker_win.cc(55)] Error reading broker pipe: Denna pipe har avslutats. (0x6D)
